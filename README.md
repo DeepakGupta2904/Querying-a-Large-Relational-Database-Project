@@ -1,5 +1,7 @@
 # Querying-a-Large-Relational-Database-Project
 
+Tools:- MS SQL Server
+
 In this project, I am work on downloading a database and restoring it on the server. You will then query the database to get customer details like name, phone number, email ID, sales made in a particular month, increase in month-on-month sales and even the total sales made to a particular customer.
 
 Highlights:-
