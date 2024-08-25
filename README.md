@@ -6,9 +6,13 @@ Key Tasks:-
 
 1. Database Restoration:- Downloaded and restored the AdventureWorks database using SQL Server Management Studio.
 2. Data Retrieval and Analysis:-
+
 A. Queried the Person table to extract customer details including email ID, phone number, and phone number type.
+
 B. Retrieved sales order details for May 2011, including individual sales transactions and total sales.
+
 C. Analyzed month-on-month sales data for 2011, including sorting results by increasing sales.
+
 D. Queried total sales made to specific customers, such as "Gustavo Achong."
 
 Technologies Used:-
