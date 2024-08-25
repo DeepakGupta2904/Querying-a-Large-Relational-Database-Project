@@ -5,6 +5,7 @@ Overview:- This project focuses on working with the AdventureWorks database, a s
 Key Tasks:-
 
 1. Database Restoration:- Downloaded and restored the AdventureWorks database using SQL Server Management Studio.
+
 2. Data Retrieval and Analysis:-
 
 A. Queried the Person table to extract customer details including email ID, phone number, and phone number type.
